@@ -1,10 +1,14 @@
-.aram{margin: 50px 300px 100px 40px;
+.aram{margin: 50px 500px 400px 200px;
     padding: 5px 50px 450px 50px;
-    width: 80%;
+    width: 60%;
     height: 100px;
     background-color: #FAFAFA;
     text-align: center;
 }
 h1{
     font-size: 70px;
+}
+.aram img{
+    width: 60%;
+    padding: 20px;
 }
